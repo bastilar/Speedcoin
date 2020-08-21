@@ -1,0 +1,2 @@
+debian/bin/speedcoind usr/bin
+src/speedcoind usr/lib/speedcoin
